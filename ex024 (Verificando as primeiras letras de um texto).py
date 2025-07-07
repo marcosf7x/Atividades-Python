@@ -1,3 +1,3 @@
-cidade = str(input("Em que cidade você nasceu? "))
+# cidade = str(input("Em que cidade você nasceu? "))
 
 
